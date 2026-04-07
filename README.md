@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dakshath-19" alt="dakshath-19" /></a> </p>
 
-- 🔭 I’m currently working on **pridicte mortality in adults with a sever trumatic brain injury(STBI)**
+- 🔭 I’m currently working on **Pridicte mortality in adults with a sever trumatic brain injury(STBI)**
 
-- 🌱 I’m currently learning **deep**
+- 🌱 I’m currently learning **deep learing**
 
 - 👯 I’m looking to collaborate on **Machine learing projects**
 
